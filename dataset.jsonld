@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Open Research Collection — Juan Moisés de la Serna Tuya: Neurociencia, Economía Conductual, Salud Pública y Demografía en América Latina (2024-2025)",
+  "description": "Colección maestra de investigación abierta sobre Neurociencia, Economía Conductual, Salud Pública y Demografía en América Latina (2024-2025)",
+  "url": "https://doi.org/10.5281/zenodo.19151868",
+  "identifier": "https://doi.org/10.5281/zenodo.19151868",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "de la Serna, Juan Moisés",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  },
+  "keywords": "neuroeconomics, behavioral economics, neuroscience, mental health, epidemiology, Latin America",
+  "datePublished": "2025",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "isAccessibleForFree": true
+}
