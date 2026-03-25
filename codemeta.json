@@ -4,23 +4,17 @@
   "name": "Open Research Collection — Juan Moisés de la Serna Tuya: Neurociencia, Economía Conductual, Salud Pú",
   "version": "1.0.0",
   "identifier": "10.5281/zenodo.19151868",
-  "datePublished": "2025",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/open-research-collection-neurociencia-economia-salud-publica-latinoamerica",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": ""
+  ]
 }
