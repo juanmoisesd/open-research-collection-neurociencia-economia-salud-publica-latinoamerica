@@ -44,3 +44,35 @@ de la Serna, Juan Moisés (2025). Open Research Collection — Juan Moisés de l
 - `METADATA.json` — Metadatos estructurados
 - `DATA_DICTIONARY.md` — Diccionario de datos
 - `CONTRIBUTING.md` — Guía para contribuidores
+
+---
+
+## 📝 Cómo Citar
+
+Si usas este recurso, por favor cita:
+
+```bibtex
+@misc{delaserna2024_open_research_collection_,
+  author    = {de la Serna Tuya, Juan Moisés},
+  title     = {Open Research Collection Neurociencia Economia Salud Publica},
+  year      = {2024},
+  doi       = {10.5281/zenodo.19145316},
+  url       = {https://github.com/juanmoisesd/open-research-collection-neurociencia-economia-salud-publica-latinoamerica},
+  publisher = {Zenodo},
+  license   = {CC0-1.0}
+}
+```
+
+**APA:** de la Serna Tuya, J. M. (2024). *Open Research Collection Neurociencia Economia Salud Publica*. https://doi.org/10.5281/zenodo.19145316
+
+## ⚖️ Licencia
+
+[![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green)](https://orcid.org/0000-0002-8401-8018)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19145316-blue)](https://doi.org/10.5281/zenodo.19145316)
+
+Dominio Público (CC0 1.0). Libre para usar, compartir y modificar sin restricciones.
+
+---
+
+**Juan Moisés de la Serna Tuya** · UNIR · [ORCID](https://orcid.org/0000-0002-8401-8018) · [GitHub](https://github.com/juanmoisesd)
